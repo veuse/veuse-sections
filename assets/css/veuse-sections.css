@@ -1,0 +1,77 @@
+/* Section block styling */
+
+.veuse-section-block {	
+	padding-top:40px;
+	padding-bottom:30px;
+	margin:0;
+	border-top-color:transparent;
+	border-bottom-color:transparent;
+	position: relative;
+	background-size: cover;
+		
+}	
+
+/* .veuse-section-block h1 { font-size: 60px; padding:10px 16px;} */
+
+.veuse-section-block.parallax {  	
+	background-attachment: fixed !important;
+	background-size: cover !important;
+	position: relative;
+	background-position: center top;
+	overflow: hidden !important;
+}
+
+.veuse-section-block .section-overlay {		
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left:0;
+	top:0;
+	display: block;
+}
+
+.section-overlay.overlay-white-horisontal { background: url(../images/overlay-white-horisontal.png); }
+.section-overlay.overlay-white-vertical { background: url(../images/overlay-white-vertical.png); }
+.section-overlay.overlay-white-diagonal { background: url(../images/overlay-white-diagonal.png); }
+.section-overlay.overlay-lighten 	{ background: rgba(255,255,255,0.4);}
+.section-overlay.overlay-black-horisontal { background: url(../images/overlay-black-horisontal.png); }
+.section-overlay.overlay-black-vertical { background: url(../images/overlay-black-vertical.png); }
+.section-overlay.overlay-black-diagonal { background: url(../images/overlay-black-diagonal.png); }
+.section-overlay.overlay-darken 	{ background: rgba(0,0,0,0.4);}
+
+/* Dark backgrounds */	
+.veuse-section-block-dark { color: #808080; }
+.veuse-section-block-dark h1,
+.veuse-section-block-dark h2,
+.veuse-section-block-dark h3,
+.veuse-section-block-dark h4,
+.veuse-section-block-dark h5,
+.veuse-section-block-dark h6 { color:#fff;}
+.veuse-section-block-dark p, 
+.veuse-section-block-dark label { color: #eee; }
+
+.veuse-section-block-dark.textshadow {
+		
+	text-shadow: 1px 1px 3px rgba(0,0,0, 0.5);
+	
+	h1, h2, h3, h4, h5, h6, p, label { text-shadow: 1px 1px 5px rgba(0,0,0 ,0.3); }
+			
+}
+	 
+.veuse-section-block-light { color: #707070; }
+.veuse-section-block-light h1,
+.veuse-section-block-light h2,
+.veuse-section-block-light h3,
+.veuse-section-block-light h4,
+.veuse-section-block-light h5,
+.veuse-section-block-light h6 { color:#252525;}
+.veuse-section-block-light p, 
+.veuse-section-block-light label { color: #353535; }	
+
+.veuse-section-block-light.textshadow {
+		
+	text-shadow:1px 1px 5px rgba(255,255,255,0.5);
+		
+	h1, h2, h3, h4, h5, h6, p, label { text-shadow:1px 1px 5px rgba(255,255,255,0.5);}
+	
+}

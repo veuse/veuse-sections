@@ -1,0 +1,411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Veuse Posttypes Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-16 09:56+0100\n"
+"PO-Revision-Date: 2013-12-16 09:57+0100\n"
+"Last-Translator: Andreas Wilthil <andreas@siteman.no>\n"
+"Language-Team: Veuse <andreas.wilthil@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: 1,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../page-meta.php:10
+msgid "Page blocks"
+msgstr "Seksjoner"
+
+#: ../page-meta.php:36
+msgid ""
+"Add section-blocks to your page. You can order the blocks via drag and drop. "
+"These blocks are added before and after your content-section, and is not "
+"part of the page editor-content."
+msgstr ""
+"Her kan du legge til seksjoner med innhold på siden. Du kan organisere "
+"rekkefølgen via drag and drop. Disse elementene kan plasseres før eller "
+"etter sideinnholdet (Innholdet du skriver i tekstredigeringsverktøyet."
+
+#: ../page-meta.php:37
+msgid "Blocks above content area"
+msgstr "Seksjoner over innholdsfeltet"
+
+#: ../page-meta.php:58
+msgid "Blocks below content area"
+msgstr "Seksjoner under innholdsfeltet"
+
+#: ../section-meta.php:10
+msgid "Section Settings"
+msgstr "Innstillinger for seksjonen"
+
+#: ../section-meta.php:45
+msgid "Text Color"
+msgstr "Tekstfarge"
+
+#: ../section-meta.php:51
+msgid "Text color"
+msgstr "Tekstfarge"
+
+#: ../section-meta.php:54
+msgid "Dark text ( for light background )"
+msgstr "Mørk tekst (for lyse bakgrunner)"
+
+#: ../section-meta.php:55
+msgid "Light text ( for dark backgrounds )"
+msgstr "Lys tekst ( for mørke bakgrunner )"
+
+#: ../section-meta.php:62
+msgid "Background Settings"
+msgstr "Innstillinger for bakgrunn"
+
+#: ../section-meta.php:68
+msgid "Background Image"
+msgstr "Bakgrunnsbilde"
+
+#: ../section-meta.php:131
+msgid "Add background image"
+msgstr "Legg til bakgrunnsbilde"
+
+#: ../section-meta.php:132
+msgid "Remove image"
+msgstr "Fjern bilde"
+
+#: ../section-meta.php:145
+msgid "Background Color"
+msgstr "Bakgrunnsfarge"
+
+#: ../section-meta.php:151
+msgid "Background Image Position"
+msgstr "Posisjon for bakgrunnsbilde"
+
+#: ../section-meta.php:154
+msgid "Top Left"
+msgstr "Øvers til venstre"
+
+#: ../section-meta.php:155
+msgid "Top Center"
+msgstr "Midtstillt øverst"
+
+#: ../section-meta.php:156
+msgid "Top Right"
+msgstr "Øverst til høyre"
+
+#: ../section-meta.php:158
+msgid "Center Left"
+msgstr "Sentrert vertikalt, venstrestillt"
+
+#: ../section-meta.php:159
+msgid "Center Center"
+msgstr "Sentrert horisontalt og vertikalt"
+
+#: ../section-meta.php:160
+msgid "Center Right"
+msgstr "Sentrert vertikalt, høyrestillt"
+
+#: ../section-meta.php:162
+msgid "Bottom Left"
+msgstr "Nederst til venstre"
+
+#: ../section-meta.php:163
+msgid "Bottom Center"
+msgstr "Nederst. Midtstillt horisontalt"
+
+#: ../section-meta.php:164
+msgid "Bottom Right"
+msgstr "Nederst. Høyrestillt."
+
+#: ../section-meta.php:166
+msgid "Fixed Position"
+msgstr "Låst posisjon"
+
+#: ../section-meta.php:174
+msgid "Background Image Repeat"
+msgstr "Repetering av bakgrunnsbilde"
+
+#: ../section-meta.php:177
+msgid "Repeat"
+msgstr "Repetér"
+
+#: ../section-meta.php:178
+msgid "No Repeat"
+msgstr "Ikke repetér"
+
+#: ../section-meta.php:179
+msgid "Repeat Horisontally"
+msgstr "Repetèr horisontalt"
+
+#: ../section-meta.php:180
+msgid "Repeat Vertically"
+msgstr "Repetèr vertikalt"
+
+#: ../section-meta.php:186
+msgid "Pattern overlay"
+msgstr "Mønster over bilde"
+
+#: ../section-meta.php:189
+msgid "No overlay"
+msgstr "Ikke noe mønster"
+
+#: ../section-meta.php:190
+msgid "White diagonal lines"
+msgstr "Hvite diagonale linjer"
+
+#: ../section-meta.php:191
+msgid "White horisontal lines"
+msgstr "Hvite horisontale linjer"
+
+#: ../section-meta.php:192
+msgid "Black diagonal lines"
+msgstr "Sorte diagonale linjer"
+
+#: ../section-meta.php:193
+msgid "Black horisontal lines"
+msgstr "Sorte horisontale linjer"
+
+#: ../section-meta.php:199
+msgid "Parallax Effect"
+msgstr "Parallax effekt"
+
+#: ../section-meta.php:202
+msgid "Enable parallax scroll effect. ( Requires a repeating background image)"
+msgstr "Bruk parallaxeffekt."
+
+#: ../section-meta.php:207
+msgid "Padding and Margins"
+msgstr "Avstander og padding"
+
+#: ../section-meta.php:213
+msgid "Top Padding"
+msgstr "Padding i toppen"
+
+#: ../section-meta.php:221
+msgid "Bottom Padding"
+msgstr "Padding i bunnen"
+
+#: ../section-meta.php:228
+msgid "Bottom Margin"
+msgstr "Avstand bunn"
+
+#: ../section-meta.php:235
+msgid "Border"
+msgstr "Kant"
+
+#: ../section-meta.php:241
+msgid "Border Top Color"
+msgstr "Kantfarge - topp"
+
+#: ../section-meta.php:248
+msgid "Border Bottom Color"
+msgstr "Kantfarge - bunn"
+
+#: ../section-meta.php:255
+msgid "Content Width"
+msgstr "Bredde på innholdsfelt"
+
+#: ../section-meta.php:265
+msgid "Fullwidth content"
+msgstr "Fullbredde"
+
+#: ../section-meta.php:268
+msgid "Let content span full width"
+msgstr "La innhold vises i fullbredde"
+
+#: ../veuse-sections.php:14
+msgid "Veuse Sections"
+msgstr "Siteman  Sideseksjoner"
+
+#: ../veuse-sections.php:64
+msgid "Page Sections"
+msgstr "Seksjoner"
+
+#: ../veuse-sections.php:65
+msgid "Page Section"
+msgstr "Seksjon"
+
+#: ../veuse-sections.php:66 ../veuse-sections.php:67
+msgid "Add New Page Section"
+msgstr "Legg til seksjon"
+
+#: ../veuse-sections.php:68
+msgid "Edit Page Section"
+msgstr "Endre seksjon"
+
+#: ../veuse-sections.php:69
+msgid "All Page Sections"
+msgstr "Alle seksjoner"
+
+#: ../veuse-sections.php:70
+msgid "New Page Section"
+msgstr "Ny seksjon"
+
+#: ../veuse-sections.php:71
+msgid "View Page Section"
+msgstr "Vis seksjon"
+
+#: ../veuse-sections.php:72
+msgid "Search Page Sections"
+msgstr "Søk i seksjoner"
+
+#: ../veuse-sections.php:73
+msgid "No Page Sections"
+msgstr "Ingen seksjoner"
+
+#: ../veuse-sections.php:74
+msgid "No Page Sections found in Trash"
+msgstr "Ingen seksjoner funnet i papirkurvenb"
+
+#~ msgid "Slideshow Builder"
+#~ msgstr "Slideshow bygger"
+
+#~ msgid "Slide:"
+#~ msgstr "SLide:"
+
+#~ msgid "Slide caption"
+#~ msgstr "Slide tittel"
+
+#~ msgid "Slide description"
+#~ msgstr "Beskrivelse"
+
+#~ msgid "Link text"
+#~ msgstr "Lenke tekst"
+
+#~ msgid "Link url"
+#~ msgstr "Lenke URL"
+
+#~ msgid "Delete slide"
+#~ msgstr "Slett slide"
+
+#~ msgid "Add slide"
+#~ msgstr "Legg til slide"
+
+#~ msgid "Item"
+#~ msgstr "Enhet"
+
+#~ msgid "Veuse Slider"
+#~ msgstr "Siteman Slider"
+
+#~ msgid "Insert slideshow"
+#~ msgstr "Sett inn slideshow"
+
+#~ msgid "Show controls navigation"
+#~ msgstr "Vis punktnavigasjon"
+
+#~ msgid "Insert shortcode"
+#~ msgstr "Sett inn shortcode"
+
+#~ msgid "Slider (Veuse)"
+#~ msgstr "Slideshow (Siteman)"
+
+#~ msgid "Insert a slider"
+#~ msgstr "Sett inn slider"
+
+#~ msgid "Title:"
+#~ msgstr "Tittel:"
+
+#~ msgid "Slider:"
+#~ msgstr "Slideshow"
+
+#~ msgid "Speed:"
+#~ msgstr "Hastighet:"
+
+#~ msgid "milliseconds"
+#~ msgstr "millisekunder"
+
+#~ msgid "Width:"
+#~ msgstr "Bredde:"
+
+#~ msgid "pixels"
+#~ msgstr "piksler"
+
+#~ msgid "Height:"
+#~ msgstr "Høyde:"
+
+#~ msgid "Show controlnav"
+#~ msgstr "Vis punktnavigasjon"
+
+#~ msgid "Show directionnav"
+#~ msgstr "Vis navigasjonspiler"
+
+#~ msgid "Read more"
+#~ msgstr "Les mer"
+
+#~ msgid "Columns"
+#~ msgstr "Kolonner"
+
+#~ msgid "Elements"
+#~ msgstr "Elementer"
+
+#~ msgid "Image size"
+#~ msgstr "Bildestørrelse"
+
+#~ msgid "Settings for the featured-pages plugin."
+#~ msgstr "Innstillinger for Fremhevede sider plugin"
+
+#~ msgid "Enable plugin stylesheet"
+#~ msgstr "Last inn stilark"
+
+#~ msgid "Save Changes"
+#~ msgstr "Lagre endringer"
+
+#~ msgid "Settings"
+#~ msgstr "Innstillinger"
+
+#~ msgid ""
+#~ "Extract content from other pages and put in a grid on your page or post."
+#~ msgstr "Hent innhold fra andre sider, og sett inn på siden"
+
+#~ msgid "featured"
+#~ msgstr "fremhevet"
+
+#~ msgid "Select pages:"
+#~ msgstr "Velg sider:"
+
+#~ msgid "Grid:"
+#~ msgstr "Kolonner:"
+
+#~ msgid "1 column"
+#~ msgstr "1 kolonne"
+
+#~ msgid "2 columns"
+#~ msgstr "2 kolonner"
+
+#~ msgid "3 columns"
+#~ msgstr "3 kolonner"
+
+#~ msgid "4 columns"
+#~ msgstr "4 kolonner"
+
+#~ msgid "Featured"
+#~ msgstr "Fremhevede sider"
+
+#~ msgid "Tabs"
+#~ msgstr "Horisontale faner"
+
+#~ msgid "Image size:"
+#~ msgstr "Bildestørrelse:"
+
+#~ msgid "width * height"
+#~ msgstr "bredde x høyde"
+
+#~ msgid "Phone:"
+#~ msgstr "Telefon"
+
+#~ msgid "Mobile:"
+#~ msgstr "Mobil"
+
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#~ msgid "Portfolio"
+#~ msgstr "Porteflølje"
+
+#~ msgid "Project"
+#~ msgstr "Prosjekt"
+
+#~ msgid "New Project"
+#~ msgstr "Nytt prosjekt"
